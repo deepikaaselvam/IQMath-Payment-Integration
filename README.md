@@ -19,9 +19,13 @@ Welcome to the official repository of the **IQMath Technologies website**! This 
 
 ### 3. ❓ **FAQ Page**  
 - Answers common questions related to the internship, such as:  
-  - ⏳ Duration of the internship.  
-  - 🎁 Benefits and rewards.  
-  - 📜 Certification details.  
+   - 💵 **Is a stipend provided during the internship?**  
+  - 🧑‍💻 **Do I need prior experience to join the internship?**  
+  - ⏳ **Duration of the internship.**  
+  - 🎁 **Benefits and rewards.**  
+  - 📜 **Certification details.**  
+  - 💳 **Payment and refund policy.**  
+  - 📞 **Contact information for queries.**  
 
 ### 4. 📞 **Contact Us Page**  
 - Provides essential details for reaching out to IQMath Technologies for further assistance or inquiries.  
