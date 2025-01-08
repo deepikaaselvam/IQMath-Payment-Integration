@@ -1,6 +1,6 @@
 # 🌟 IQMath Technologies Website 🚀🌟  
 
-Welcome to the official repository of the **IQMath Technologies website**! This project is designed to provide an intuitive and informative platform for students seeking internships with IQMath Technologies.  
+Welcome to the Official repository of the **IQMath Technologies website**! This project is designed to provide an intuitive and informative platform for students seeking internships with IQMath Technologies.  
 
 ---
 
@@ -19,13 +19,13 @@ Welcome to the official repository of the **IQMath Technologies website**! This 
 
 ### 3. ❓ **FAQ Page**  
 - Answers common questions related to the internship, such as:  
-   - 💵 **Is a stipend provided during the internship?**  
-  - 🧑‍💻 **Do I need prior experience to join the internship?**  
-  - ⏳ **Duration of the internship.**  
-  - 🎁 **Benefits and rewards.**  
-  - 📜 **Certification details.**  
-  - 💳 **Payment and refund policy.**  
-  - 📞 **Contact information for queries.**  
+   - 💵 Is a stipend provided during the internship?
+  - 🧑‍💻 Do I need prior experience to join the internship?  
+  - ⏳ Duration of the internship. 
+  - 🎁 Benefits and rewards.  
+  - 📜 Certification details. 
+  - 💳 Payment methods. 
+  - 📞 Contact information for queries. 
 
 ### 4. 📞 **Contact Us Page**  
 - Provides essential details for reaching out to IQMath Technologies for further assistance or inquiries.  
@@ -36,7 +36,7 @@ Welcome to the official repository of the **IQMath Technologies website**! This 
 
 ---
 
-## 🛠️ **Technologies Used**  
+## 🛠️ **Technologies Used👩🏻‍💻**  
 
 - **🌐 HTML/CSS**: For structuring and styling the website.  
 - **⚙️ JavaScript**: For interactivity and dynamic behavior.  
@@ -45,7 +45,7 @@ Welcome to the official repository of the **IQMath Technologies website**! This 
 
 ---
 
-##  **Getting Started**  
+
 
 ### Prerequisites  
 - 🧑‍💻 Basic knowledge of web development.  
