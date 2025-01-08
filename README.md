@@ -1,4 +1,4 @@
-# 🌟 IQMath Technologies Website 🌟  
+# 🌟 IQMath Technologies Website 🚀🌟  
 
 Welcome to the official repository of the **IQMath Technologies website**! This project is designed to provide an intuitive and informative platform for students seeking internships with IQMath Technologies.  
 
@@ -45,7 +45,7 @@ Welcome to the official repository of the **IQMath Technologies website**! This 
 
 ---
 
-## 🚀 **Getting Started**  
+##  **Getting Started**  
 
 ### Prerequisites  
 - 🧑‍💻 Basic knowledge of web development.  
