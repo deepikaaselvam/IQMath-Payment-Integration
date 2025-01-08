@@ -31,8 +31,8 @@ Welcome to the Official repository of the **IQMath Technologies website**! This 
 - Provides essential details for reaching out to IQMath Technologies for further assistance or inquiries.  
 
 ### 5. 💳 **Razorpay Integration**  
-- Securely integrates a payment gateway to facilitate hassle-free payments.  
-- Displays a confirmation page after successful transactions.  
+- **SECURELY INTEGRATES A PAYMENT GATEWAY** to facilitate hassle-free payments.  
+- Displays a confirmation page after **Successful Transactions.**  
 
 ---
 
